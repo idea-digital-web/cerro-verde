@@ -7031,8 +7031,7 @@ video {
   .widget_search form input[type=search],
   .widget_product_search form input[type=search] {
     -ms-flex-order: 2;
-        order: 2;
-    border-radius: 15px; }
+        order: 2; }
   .widget_search form input[type=submit],
   .widget_product_search form input[type=submit] {
     clip: rect(1px 1px 1px 1px);
@@ -7040,8 +7039,7 @@ video {
     clip: rect(1px, 1px, 1px, 1px);
     position: absolute !important;
     top: 0;
-    left: 0;
-    border-radius: 15px; }
+    left: 0; }
   .widget_search form:before,
   .widget_product_search form:before {
     display: inline-block;
@@ -7055,7 +7053,6 @@ video {
     position: absolute;
     top: 1em;
     left: 1em;
-    border-radius: 15px;
     font-family: "Asap", "Source Sans Pro", "FontAwesome", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; }
 
 .widget_recent_entries ul,
