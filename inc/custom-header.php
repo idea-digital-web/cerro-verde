@@ -36,7 +36,7 @@ function storefront_site_branding() {
 	?>
 		<picture class='logo_header'>
 			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
-				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo-header.png" class="logo_header">
+				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo-header.jpeg" class="logo_header">
 			</a>
 		</picture>
 	<?php 

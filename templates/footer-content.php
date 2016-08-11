@@ -4,7 +4,7 @@
 	Nosotros
 	</h2>
 	<picture>
-		<img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo-footer.png" >
+		<img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo-footer.jpeg" >
 	</picture>
 	<p>Con más de 10 años de experiencia en el área textil, traemos el mejor surtido en ropa de primera calidad importada y nacional...</p>
 	<span class="cards hidden">
