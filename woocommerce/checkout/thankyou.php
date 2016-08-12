@@ -63,7 +63,7 @@ if ( $order ) : ?>
 	<?php do_action( 'woocommerce_thankyou_' . $order->payment_method, $order->id ); ?>
 	<?php do_action( 'woocommerce_thankyou', $order->id ); ?>
 
-		<a class="woocommerce__paymentrecord" href="<?php home_url();?>/registrar-pago/">Registrar Pago</a>
+		<a class="woocommerce__paymentrecord" href="<?php home_url();?>/index.php/registrar-pago/">Registrar Pago</a>
 <?php else : ?>
 
 	<p class="woocommerce-thankyou-order-received"><?php echo apply_filters( 'woocommerce_thankyou_order_received_text', __( 'Thank you. Your order has been received.', 'woocommerce' ), null ); ?></p>
