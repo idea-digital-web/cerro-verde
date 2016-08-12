@@ -10281,7 +10281,8 @@ a.woocommerce-Button.button {
   .site-footer__item--nav ul.site-footer__item--nav-categories {
     margin-left: 1.2rem !important;
     font-size: 1.25rem;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    font-style: italic; }
     .site-footer__item--nav ul.site-footer__item--nav-categories i.fa.fa-angle-right {
       color: #0c952d; }
 
