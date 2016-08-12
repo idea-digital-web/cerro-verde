@@ -10362,8 +10362,8 @@ Custom HEADER
           display: flex;
           -ms-flex-align: center;
               align-items: center;
-          width: 225px;
-          height: 225px;
+          width: 275px;
+          height: 275px;
           margin-right: 1rem; } }
     .site-header > .col-full section.secondary_navigation_wrapper {
       display: none; }
