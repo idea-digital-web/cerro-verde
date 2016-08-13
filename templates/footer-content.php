@@ -1,4 +1,3 @@
-
 <div class="site-footer__item">
 	<h2>
 	Nosotros
@@ -6,7 +5,7 @@
 	<picture>
 		<img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo-footer.jpeg" >
 	</picture>
-	<p>Con más de 10 años de experiencia en el área textil, traemos el mejor surtido en ropa de primera calidad importada y nacional...</p>
+	<p><?php bloginfo('description'); ?></p>
 	<span class="cards hidden">
 		<i class="fa fa-cc-visa fa-3x"></i>
 		<i class="fa fa-cc-mastercard fa-3x"></i>
