@@ -1,7 +1,7 @@
 
 /* Cambiar el Background */
 body.login{
-	background-image: url('logoLogin150x66.png') !important;
+	background-image: url('logo-login.jpg') !important;
 	background-repeat: repeat;
 	height: 600px;
 	/* background-image: url('login-bg.jpg');
@@ -22,7 +22,7 @@ body.login{
     box-shadow: 10px 10px 10px 0px #636262;
 }
 .login h1 a {
-  background-image: url('login-logo.png');
+  background-image: url('login-logo.jpeg');
   background-position: center;
   background-size: 300px 132px; /*Modificar aquí para que coincida con el tamaño del logo */
   height: 160px; /*Modificar aquí para que coincida con el tamaño del logo */
