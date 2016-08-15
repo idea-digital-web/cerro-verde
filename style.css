@@ -10103,8 +10103,6 @@ main.site-main > h2.section-title,
 .related.products > h2,
 .cross-sells > h2,
 .up-sells > h2,
-.col-1 > h2,
-.col-2 > h2,
 .page-content > h2 {
   text-align: left;
   margin-bottom: 0.5rem;
@@ -10124,8 +10122,6 @@ main.site-main > h2.section-title,
     .related.products > h2,
     .cross-sells > h2,
     .up-sells > h2,
-    .col-1 > h2,
-    .col-2 > h2,
     .page-content > h2 {
       font-size: 2.2rem; } }
 
