@@ -10096,8 +10096,7 @@ h4 {
     h4 {
       font-size: 1.2rem; } }
 
-.section_title, .storefront-product-section .section-title, .col-1 > h2,
-.col-2 > h2, header.entry-header > h1.entry-title,
+.section_title, .storefront-product-section .section-title, header.entry-header > h1.entry-title,
 header.page-header > h1.page-title,
 main.site-main > h1.page-title,
 main.site-main > h2.section-title,
@@ -10111,11 +10110,12 @@ main.site-main > h2.section-title,
   font-style: italic !important;
   font-weight: 300 !important;
   font-size: 1.8rem;
+  background: url("images/bg-heading.png");
+  background-repeat: no-repeat;
   color: #ffffff;
   padding-left: 1.5rem; }
   @media screen and (min-width: 768px) {
-    .section_title, .storefront-product-section .section-title, .col-1 > h2,
-    .col-2 > h2, header.entry-header > h1.entry-title,
+    .section_title, .storefront-product-section .section-title, header.entry-header > h1.entry-title,
     header.page-header > h1.page-title,
     main.site-main > h1.page-title,
     main.site-main > h2.section-title,
@@ -10170,23 +10170,23 @@ noscript iframe.google-tag {
  * Custom Contenido
  *-----------------------------------------------------------------------------------------
  */
-.col-1 > h2,
-.col-2 > h2 {
-  color: #000000; }
-
-header.entry-header > h1.entry-title,
-header.page-header > h1.page-title,
-main.site-main > h1.page-title,
-main.site-main > h2.section-title,
-.related.products > h2,
-.cross-sells > h2,
-.up-sells > h2,
-.page-content > h2 {
-  background: url("images/bg-heading.png");
-  background-repeat: no-repeat; }
-
 .cross-sells > h2 {
   font-size: 1.65rem; }
+
+.col-1 > h2,
+.col-2 > h2 {
+  text-align: left;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  font-style: italic !important;
+  font-weight: 300 !important;
+  font-size: 1.8rem;
+  color: #000000 !important;
+  padding-left: 1.5rem; }
+  @media screen and (min-width: 768px) {
+    .col-1 > h2,
+    .col-2 > h2 {
+      font-size: 2.2rem; } }
 
 .content-area__slides {
   display: -ms-flexbox;
