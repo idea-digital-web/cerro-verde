@@ -26,10 +26,10 @@
 				<?php if (current_user_can('administrator') || current_user_can('shop_manager')): ?>
 				<li><a id="itemPanel" href="<?php home_url();?>/wp-admin/"><i class="fa fa-tachometer" aria-hidden="true"></i>Escritorio</a></li>
 				<?php endif ?>
-				<li><a  id="itemPedidos" href="<?php home_url();?>/mi-cuenta/orders/"><i class="fa fa-shopping-basket" aria-hidden="true"></i>Pedidos</a></li>
-				<li><a  id="itemEditar" href="<?php home_url();?>/mi-cuenta/edit-account/"><i class="fa fa-user" aria-hidden="true"></i>Editar</a></li>
-				<li><a  id="itemEditar" href="<?php home_url();?>/mi-cuenta/edit-address/"><i class="fa fa-home" aria-hidden="true"></i>Direcciones</a></li>
-				<li><a  id="itemCerrar" href="<?php home_url();?>/mi-cuenta/customer-logout/" ><i class="fa fa-sign-out" aria-hidden="true"></i>Cerrar Sesión</a></li>
+				<li><a  id="itemPedidos" href="<?php home_url();?>index.php/mi-cuenta/orders/"><i class="fa fa-shopping-basket" aria-hidden="true"></i>Pedidos</a></li>
+				<li><a  id="itemEditar" href="<?php home_url();?>index.php/mi-cuenta/edit-account/"><i class="fa fa-user" aria-hidden="true"></i>Editar</a></li>
+				<li><a  id="itemEditar" href="<?php home_url();?>index.php/mi-cuenta/edit-address/"><i class="fa fa-home" aria-hidden="true"></i>Direcciones</a></li>
+				<li><a  id="itemCerrar" href="<?php home_url();?>index.php/mi-cuenta/customer-logout/" ><i class="fa fa-sign-out" aria-hidden="true"></i>Cerrar Sesión</a></li>
 			</ul>
 		</nav>
 		<?php } else {?>
