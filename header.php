@@ -22,7 +22,7 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-<!-- Favicon: http://www.favicon-generator.org/ -->
+<!-- Favicon -->
 <?php get_template_part( 'templates/favicon'); ?>
 <!-- End Favicon -->
 

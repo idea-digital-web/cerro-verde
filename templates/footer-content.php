@@ -3,7 +3,7 @@
 	Nosotros
 	</h2>
 	<picture>
-		<img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo-footer.jpeg" >
+		<img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo-footer.png" >
 	</picture>
 	<p><?php bloginfo('description'); ?></p>
 	<span class="cards hidden">
