@@ -34,7 +34,7 @@
 		</nav>
 		<?php } else {?>
 		<div class="site-header_nav--login">
-			<a href="<?php home_url();?>/mi-cuenta" title="">
+			<a href="<?php home_url();?>/index.php/mi-cuenta" title="">
 				<i class="fa fa-sign-in"></i>
 				<i class="icon-signin"></i>Iniciar Sesión / Registrarse
 			</a>
