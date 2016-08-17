@@ -8338,13 +8338,15 @@ ul.products {
     margin-top: 0; }
   .single-product div.product .images .woocommerce-main-image {
     margin-bottom: 1.618em;
-    display: block; }
+    display: block;
+    border: 1px solid grey; }
   .single-product div.product .images .thumbnails a.zoom {
     display: block;
     width: 22.05%;
     margin-right: 3.8%;
     float: left;
-    margin-bottom: 1em; }
+    margin-bottom: 1em;
+    border: 1px solid grey; }
     .single-product div.product .images .thumbnails a.zoom.last {
       margin-right: 0; }
     .single-product div.product .images .thumbnails a.zoom.first {
