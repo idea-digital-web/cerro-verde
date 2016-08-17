@@ -6267,7 +6267,8 @@ button.menu-toggle {
     margin-left: 1.387em; }
   .main-navigation ul li a {
     padding: .857em 0;
-    display: block; }
+    display: block;
+    color: #ffffff; }
     .main-navigation ul li a:before {
       display: inline-block;
       font: normal normal normal 14px/1 FontAwesome;
@@ -6381,7 +6382,8 @@ button.menu-toggle {
       box-sizing: border-box;
       font-weight: bold !important;
       font-size: 1rem;
-      font-style: italic; } }
+      font-style: italic;
+      color: #ffffff; } }
     @media screen and (min-width: 768px) and (min-width: 1024px) {
       .main-navigation ul.menu > li > a,
       .main-navigation ul.nav-menu > li > a {
