@@ -8336,7 +8336,7 @@ ul.products {
   .single-product div.product .summary {
     margin-bottom: 2.618em;
     margin-top: 0; }
-  .single-product div.product .summary > ul > li {
+  .single-product div.product .summary > div > ul > li {
     list-style-type: circle; }
   .single-product div.product .images .woocommerce-main-image {
     margin-bottom: 1.618em;
