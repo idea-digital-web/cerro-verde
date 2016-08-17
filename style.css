@@ -8508,7 +8508,8 @@ a.reset_variations {
   margin-right: -1.387rem;
   margin-bottom: 1.618em;
   font-size: .857em;
-  padding: 1em 1.387rem; }
+  padding: 1em 1.387rem;
+  background: none; }
   .woocommerce-breadcrumb a {
     font-weight: 400;
     text-decoration: underline; }
@@ -10337,6 +10338,9 @@ a.woocommerce-Button.button {
       margin-right: 0.5rem; }
     .site-footer__item--contact > i.fa-mobile {
       font-size: 150%; }
+    .site-footer__item--contact:last-child {
+      color: #ffffff;
+      margin-top: 1.5rem; }
   .site-footer__item--nav ul.site-footer__item--nav-categories {
     margin-left: 1.2rem !important;
     font-size: 1.25rem;

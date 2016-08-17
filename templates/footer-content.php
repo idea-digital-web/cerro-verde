@@ -52,6 +52,8 @@
 	</div>
 	<div class="site-footer__item--contact">
 		<i class="fa fa-envelope">ventas@cerroverdestore.com</i>
-		
+	</div>
+	<div class="site-footer__item--contact">
+		Somos tienda virtual con entregas previo acuerdo.
 	</div>
 </div>
