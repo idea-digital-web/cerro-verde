@@ -1,5 +1,6 @@
 <!-- http://www.favicon-generator.org/ -->
 
+<link rel="icon" href="<?php bloginfo('stylesheet_directory'); ?>/images/favicon.ico">
 <link rel="apple-touch-icon" sizes="57x57" href="<?php bloginfo('stylesheet_directory'); ?>/images/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="<?php bloginfo('stylesheet_directory'); ?>/images/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="<?php bloginfo('stylesheet_directory'); ?>/images/apple-icon-72x72.png">
