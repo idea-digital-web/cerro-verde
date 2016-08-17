@@ -10335,6 +10335,8 @@ a.woocommerce-Button.button {
     font-size: 1.2rem; }
     .site-footer__item--contact > i.fa-envelope::before {
       margin-right: 0.5rem; }
+    .site-footer__item--contact > i.fa-mobile {
+      font-size: 150%; }
   .site-footer__item--nav ul.site-footer__item--nav-categories {
     margin-left: 1.2rem !important;
     font-size: 1.25rem;

@@ -40,14 +40,18 @@
 	</h2>
 	<div class="site-footer__item--contact">
 		<i class="fa fa-phone"></i>
-		<span>0276-3435248</span>
+		<span>0212.418.34.00</span>
+	</div>
+	<div class="site-footer__item--contact">
+		<i class="fa fa-mobile"></i>
+		<span>0412.989.55.76</span>
 	</div>
 	<div class="site-footer__item--contact">
 		<i class="fa fa-whatsapp" aria-hidden="true"></i>
-		<span>0424-1767436</span>
+		<span>0412.231.22.00</span>
 	</div>
 	<div class="site-footer__item--contact">
-		<i class="fa fa-envelope"><?php bloginfo( 'admin_email' ); ?></i>
+		<i class="fa fa-envelope">ventas@cerroverdestore.com</i>
 		
 	</div>
 </div>
