@@ -51,7 +51,8 @@
 		<span>0412.231.22.00</span>
 	</div>
 	<div class="site-footer__item--contact">
-		<i class="fa fa-envelope">ventas@cerroverdestore.com</i>
+		<i class="fa fa-envelope"></i>
+		<span class="email">ventas@cerroverdestore.com</span>
 	</div>
 	<div class="site-footer__item--contact">
 		Somos tienda virtual con entregas previo acuerdo.

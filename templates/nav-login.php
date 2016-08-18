@@ -5,9 +5,9 @@
 		<span>0212.418.34.00 / 0412.989.55.76 </span>
 	</div>
 	<div class="site-header_nav--item site-header_nav--contact">
-		<i class="fa fa-envelope-o">ventas@cerroverdestore.com
+		<i class="fa fa-envelope-o">
 		</i>
-		
+		<span>ventas@cerroverdestore.com</span>
 	</div>
 	<div class="site-header_nav--item site-header_nav--welcome">
 		<span>
