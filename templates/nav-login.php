@@ -41,8 +41,8 @@
 		<?php };?>
 	</div>
 	<div class="site-header_nav--item site-header_nav--social">
-		<a href=" https://www.facebook.com/licratex/?fref=ts" target="_blank"><i class="fa fa-facebook-official"></i></a>
-		<a class="" href="https://twitter.com/licratex" target="_blank"><i class="fa fa-twitter"></i></a>
-		<a class="" href="https://www.instagram.com/licratex/" target="_blank"><i class="fa fa-instagram"></i></a>
+		<a href=" https://www.facebook.com" target="_blank"><i class="fa fa-facebook-official"></i></a>
+		<a class="" href="https://twitter.com" target="_blank"><i class="fa fa-twitter"></i></a>
+		<a class="" href="https://www.instagram.com" target="_blank"><i class="fa fa-instagram"></i></a>
 	</div>
 </nav>
