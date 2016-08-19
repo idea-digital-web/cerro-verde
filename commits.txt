@@ -1,3 +1,9 @@
+commit fb56d6e9ae8710a1f2f9554e37bd3d709bb28fe5
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Fri Aug 19 11:02:55 2016 -0400
+
+    Eliminado node_modules
+
 commit b8eab461970946ef5afd45b7947f5f2540f77f0c
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Fri Aug 19 11:00:06 2016 -0400
