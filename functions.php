@@ -36,5 +36,8 @@ require 'inc/minifier-script.php';
 // Custom Fields Billing
 require 'inc/custom-field-billing.php';
 
+// Probar en linea
+ini_set("zlib.output_compression", "On");
+ini_set("zlib.output_compression_level", "2");
 
  ?>
