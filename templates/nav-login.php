@@ -44,8 +44,8 @@
 		<?php };?>
 	</div>
 	<div class="site-header_nav--item site-header_nav--social">
-		<a href=" https://www.facebook.com" target="_blank"><i class="fa fa-facebook-official"></i></a>
-		<a class="" href="https://twitter.com" target="_blank"><i class="fa fa-twitter"></i></a>
-		<a class="" href="https://www.instagram.com" target="_blank"><i class="fa fa-instagram"></i></a>
+		<a href="<?php get_template_part( 'templates/add', 'facebook'); ?>" target="_blank"><i class="fa fa-facebook-official"></i></a>
+		<a class="<?php get_template_part( 'templates/add', 'twitter'); ?>" href="" target="_blank"><i class="fa fa-twitter"></i></a>
+		<a class="<?php get_template_part( 'templates/add', 'instagram'); ?>" href="" target="_blank"><i class="fa fa-instagram"></i></a>
 	</div>
 </nav>
