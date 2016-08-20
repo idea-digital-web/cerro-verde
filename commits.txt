@@ -1,3 +1,9 @@
+commit e13c9a2fdb938d28b8d543d83baaa99b85df2b0b
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Sat Aug 20 17:30:53 2016 -0400
+
+    Optimizado header selectivzr
+
 commit 1ae7a1de2829b76b1a21e11e889d9a0d51317aff
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Sat Aug 20 16:58:20 2016 -0400
