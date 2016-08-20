@@ -40,19 +40,19 @@
 	</h2>
 	<div class="site-footer__item--contact">
 		<i class="fa fa-phone"></i>
-		<span>0212.418.34.00</span>
+		<span><?php get_template_part( 'templates/add', 'phone'); ?></span>
 	</div>
 	<div class="site-footer__item--contact">
 		<i class="fa fa-mobile"></i>
-		<span>0412.989.55.76</span>
+		<span><?php get_template_part( 'templates/add', 'mobile'); ?></span>
 	</div>
 	<div class="site-footer__item--contact">
 		<i class="fa fa-whatsapp" aria-hidden="true"></i>
-		<span>0412.231.22.00</span>
+		<span><?php get_template_part( 'templates/add', 'whatsapp'); ?></span>
 	</div>
 	<div class="site-footer__item--contact">
 		<i class="fa fa-envelope"></i>
-		<span class="email">ventas@cerroverdestore.com</span>
+		<span class="email"><?php get_template_part( 'templates/add', 'email'); ?></span>
 	</div>
 	<div class="site-footer__item--contact">
 		Somos tienda virtual con entregas previo acuerdo.

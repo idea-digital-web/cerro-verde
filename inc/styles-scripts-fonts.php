@@ -31,7 +31,7 @@ add_action('wp_enqueue_scripts', 'my_scripts', 11);
 
 // FUENTES Y ESTILOS:
 
-// Agregar Mis Estilos
+// Agregar Mis Estilos (ya lo está agregando el tema padre)
 // function my_stylesheet() {
 //     wp_enqueue_style( 'myStyle', get_stylesheet_directory_uri().'/style.css', array('theme'), '1.0', 'screen, projection'); 
 // }

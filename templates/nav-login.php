@@ -2,12 +2,15 @@
 	<div class="site-header_nav--item site-header_nav--contact">
 		<i class="fa fa-phone">
 		</i>
-		<span>0212.418.34.00 / 0412.989.55.76 </span>
+		<span>
+			<?php get_template_part( 'templates/add', 'phone'); ?> / 
+			<?php get_template_part( 'templates/add', 'mobile'); ?>
+		</span>
 	</div>
 	<div class="site-header_nav--item site-header_nav--contact">
 		<i class="fa fa-envelope-o">
 		</i>
-		<span>ventas@cerroverdestore.com</span>
+		<span><?php get_template_part( 'templates/add', 'email'); ?></span>
 	</div>
 	<div class="site-header_nav--item site-header_nav--welcome">
 		<span>
