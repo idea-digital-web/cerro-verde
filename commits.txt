@@ -1,3 +1,9 @@
+commit ea22df4d6775f062d2a22e1c7bb505f8768feefd
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Sat Aug 20 18:36:35 2016 -0400
+
+    Arreglando error en custom-field-billing
+
 commit 0b30cef39a526b2e99e9a90678b0ec9628b920b9
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Sat Aug 20 17:44:14 2016 -0400
