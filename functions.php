@@ -36,4 +36,9 @@ require 'inc/minifier-script.php';
 // Custom Fields Billing
 require 'inc/custom-field-billing.php';
 
+// Add alt tags to img
+require 'inc/add_alt_tags.php'
+
+
+
  ?>
