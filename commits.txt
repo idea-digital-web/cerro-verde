@@ -1,3 +1,9 @@
+commit 178aa5166b7f094b6d68fffeee8aef07bf80a53d
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Aug 22 16:57:34 2016 -0400
+
+    Agregado atr alt a img de productos
+
 commit 5e0a5414e35f8233953c3465d5ddc92c4307b2ad
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Aug 22 14:20:35 2016 -0400
