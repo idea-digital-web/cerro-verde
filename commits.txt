@@ -1,3 +1,9 @@
+commit 4540343dd3ec88c927459745a57896c0b9c014f4
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Aug 22 17:51:27 2016 -0400
+
+    Cambiado picture x div
+
 commit fb6b8ff8d27925b00d445629eadb469531b0631d
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Aug 22 17:37:40 2016 -0400
