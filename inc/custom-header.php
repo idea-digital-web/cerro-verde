@@ -34,11 +34,11 @@ function header_cart() {
 
 function storefront_site_branding() {
 	?>
-		<picture class='logo_header'>
+		<div class='logo_header'>
 			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
-				<img src="http://i1.wp.com/cerroverde.ideapruebas.com/wp-content/uploads/2016/08/logo-header.jpeg" class="logo_header">
+				<img src="http://i1.wp.com/cerroverde.ideapruebas.com/wp-content/uploads/2016/08/logo-header.jpeg">
 			</a>
-		</picture>
+		</div>
 	<?php 
 }
 
