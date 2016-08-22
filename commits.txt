@@ -1,3 +1,9 @@
+commit 94c2a28f5084b986f86ffdb57f5c73d231c59675
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Sun Aug 21 15:21:54 2016 -0400
+
+    Cambiado screenshot
+
 commit bcf8d2f7252c242f9c8a21d533d474f1b1bae9f1
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Sun Aug 21 14:53:48 2016 -0400
