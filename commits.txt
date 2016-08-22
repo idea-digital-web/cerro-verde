@@ -1,3 +1,9 @@
+commit 1b47e0c2ee84a38ee8bc4e21c9a8ba21ed6becd9
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Sun Aug 21 22:06:53 2016 -0400
+
+    Mejorando bolsita de compras
+
 commit 94c2a28f5084b986f86ffdb57f5c73d231c59675
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Sun Aug 21 15:21:54 2016 -0400
