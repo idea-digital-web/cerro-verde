@@ -1,3 +1,9 @@
+commit 81239d2acb20227cfb8c8174cddb9e076a21a102
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Wed Aug 24 10:38:44 2016 -0400
+
+    Eliminado fc localhost
+
 commit f5750eb1a3c3e74fc35d3cf01eb3f5f0309bed3c
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Tue Aug 23 12:52:29 2016 -0400
