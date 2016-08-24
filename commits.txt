@@ -1,3 +1,9 @@
+commit 9f2ef8083c6dfaeb5813c304348ee56de01a3ae8
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Wed Aug 24 10:53:03 2016 -0400
+
+    Ocultado facebook
+
 commit 81239d2acb20227cfb8c8174cddb9e076a21a102
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Wed Aug 24 10:38:44 2016 -0400
