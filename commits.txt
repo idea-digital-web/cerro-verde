@@ -1,3 +1,9 @@
+commit e155ee3fd8560469415e6b489785683e8e74a4b7
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Wed Aug 24 10:59:31 2016 -0400
+
+    Modificado los numeros de contacto en el footer
+
 commit 9f2ef8083c6dfaeb5813c304348ee56de01a3ae8
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Wed Aug 24 10:53:03 2016 -0400
