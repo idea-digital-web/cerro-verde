@@ -1,3 +1,9 @@
+commit f5750eb1a3c3e74fc35d3cf01eb3f5f0309bed3c
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Tue Aug 23 12:52:29 2016 -0400
+
+    Editado plugins
+
 commit a8c83f55e4b98b6855786469fd5c18fe25674ad0
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Aug 22 18:03:47 2016 -0400
