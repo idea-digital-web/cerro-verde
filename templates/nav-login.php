@@ -46,5 +46,4 @@
 		<a href="<?php get_template_part( 'templates/add', 'twitter'); ?>" target="_blank"><i class="fa fa-twitter"></i></a>
 		<a href="<?php get_template_part( 'templates/add', 'instagram'); ?>" target="_blank"><i class="fa fa-instagram"></i></a>
 	</div>
-	</div>
 </nav>
