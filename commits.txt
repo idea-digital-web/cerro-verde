@@ -1,3 +1,9 @@
+commit 2197a6eb1387275cfd24c6fa21c73b6f7ef50d2f
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Aug 29 14:48:08 2016 -0400
+
+    Verificando propiedad y analitycs
+
 commit 4d7ffd6f5ff33a2a3f4bed44fd2de342f2d7e808
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Wed Aug 24 13:58:07 2016 -0400
