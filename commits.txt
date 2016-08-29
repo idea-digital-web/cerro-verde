@@ -1,3 +1,9 @@
+commit 4d7ffd6f5ff33a2a3f4bed44fd2de342f2d7e808
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Wed Aug 24 13:58:07 2016 -0400
+
+    Modificado Bs
+
 commit e155ee3fd8560469415e6b489785683e8e74a4b7
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Wed Aug 24 10:59:31 2016 -0400
