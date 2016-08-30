@@ -1,3 +1,9 @@
+commit f7893eb93637e3e21b470a051074d168a925ac3c
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Aug 29 18:00:06 2016 -0400
+
+    Agregada redes sociales
+
 commit fd94b10035a1ed42c67febf1b5028be9b02321b6
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Aug 29 16:52:37 2016 -0400
