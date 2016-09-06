@@ -11,12 +11,12 @@
 <link rel="apple-touch-icon" sizes="144x144" href="http://i0.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/apple-icon-144x144.png">
 <link rel="apple-touch-icon" sizes="152x152" href="http://i2.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/apple-icon-152x152.png">
 <link rel="apple-touch-icon" sizes="180x180" href="http://i2.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="36x36"  href="hhttp://i0.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/android-icon-36x36.png">
+<link rel="icon" type="image/png" sizes="36x36"  href="http://i0.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/android-icon-36x36.png">
 <link rel="icon" type="image/png" sizes="48x48"  href="http://i2.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/android-icon-48x48.png">
 <link rel="icon" type="image/png" sizes="72x72"  href="http://i1.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/android-icon-72x72.png">
 <link rel="icon" type="image/png" sizes="96x96"  href="http://i2.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/android-icon-96x96.png">
 <link rel="icon" type="image/png" sizes="144x144"  href="http://i1.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/android-icon-144x144.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="hhttp://i2.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="http://i2.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/android-icon-192x192.png">
 <link rel="icon" type="image/png" sizes="16x16" href="http://i2.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://i2.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="96x96" href="http://i1.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/favicon-96x96.png">
