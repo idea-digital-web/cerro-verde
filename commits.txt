@@ -1,3 +1,9 @@
+commit 70c9089f6a163ff8d1fb15cdbda345e63488d21f
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Tue Sep 6 11:20:56 2016 -0400
+
+    Arreglada error de urls en favicon
+
 commit fe72827eaeeec7bc89be1b5e247d510841496fc5
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Tue Aug 30 11:19:58 2016 -0400
