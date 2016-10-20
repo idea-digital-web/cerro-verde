@@ -5,11 +5,11 @@
 	<picture>
 		<img src="http://i0.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/logo-footer.png" alt="Logo Footer" />
 	</picture>
-	<p><?php bloginfo('description'); ?></p>
+<!-- 	<p><?php bloginfo('description'); ?></p>
 	<span class="cards hidden">
 		<i class="fa fa-cc-visa fa-3x"></i>
 		<i class="fa fa-cc-mastercard fa-3x"></i>
-	</span>
+	</span> -->
 </div>
 <div class="site-footer__item">
 	<h2>Categorías</h2>
