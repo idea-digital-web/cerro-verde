@@ -29,7 +29,7 @@
 	<h2>
 	Mensaje Directo
 	</h2>
-	<?php get_template_part( 'templates/footer', 'formcraft'); ?>
+	<?php if (function_exists("add_formcraft_form")) { add_formcraft_form("[fc id='1'][/fc]"); } ?>
 </div>
 <div class="site-footer__item">
 	<h2>
