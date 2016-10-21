@@ -49,7 +49,7 @@ Agregar Banner en el Header
 function banner_header() {
 	?>
 		<picture>
-			<img src="http://i1.wp.com/cerroverdestore.com/wp-content/uploads/2016/08/banner-header.png" alt="Banner Header" />
+			<img src="http://i1.wp.com/cerroverdestore.com/wp-content/uploads/2016/10/banner-header.png" alt="Banner Header" />
 		</picture>
 	<?php 
 }
