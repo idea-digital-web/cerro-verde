@@ -1,3 +1,9 @@
+commit 473a72ab9e40258c6a9e877644a52babea35092a
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Fri Oct 21 18:56:03 2016 -0400
+
+    Agregado telefonos y banners
+
 commit 1f30994ec85955bafeea0001d5077636c3e972d5
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Fri Oct 21 18:25:17 2016 -0400

@@ -3,10 +3,8 @@
 		<i class="fa fa-phone">
 		</i>
 		<span>
-			<?php get_template_part( 'templates/add', 'phone'); ?> / 
-			<?php get_template_part( 'templates/add', 'mobile'); ?> / 
-			<?php get_template_part( 'templates/add', 'mobile2'); ?> / 
-			<?php get_template_part( 'templates/add', 'mobile3'); ?>
+			<?php get_template_part( 'templates/add', 'phone'); ?> /
+			<?php get_template_part( 'templates/add', 'mobile'); ?>
 		</span>
 	</div>
 	<div class="site-header_nav--item site-header_nav--contact">
